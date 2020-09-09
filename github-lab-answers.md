@@ -7,3 +7,7 @@
 3) git revert (commit code)
 4) so you can remove any additional changes after the commit 
 5) if you made a change that broke your code and you want to revert to a working version.
+
+1) git branch
+2) git checkout <name>
+3) to make and then test changes that aren't on the master or "production" branch.
