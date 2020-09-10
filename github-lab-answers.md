@@ -1,5 +1,5 @@
 1) git init
-2) git add
+2) git add -A
 3) git commit 
 
 1) git pull origin master
@@ -11,3 +11,6 @@
 1) git branch
 2) git checkout <name>
 3) to make and then test changes that aren't on the master or "production" branch.
+
+1) you would use git merge if you have two branches with unique commits, and want to merge them into one branch (such as the master branch).
+2)git push -u origin master
